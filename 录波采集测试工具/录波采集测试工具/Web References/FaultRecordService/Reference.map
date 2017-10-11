@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Users/dell/Desktop/雷电2017年9月7日102605/录波采集测试工具/Web References/FaultRecordService/FaultRecordServiceService.wsdl" filename="FaultRecordServiceService.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Users/dell/Desktop/雷电2017年9月7日102605/录波采集测试工具/Web References/FaultRecordService/FaultRecordService.xsd" filename="FaultRecordService.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

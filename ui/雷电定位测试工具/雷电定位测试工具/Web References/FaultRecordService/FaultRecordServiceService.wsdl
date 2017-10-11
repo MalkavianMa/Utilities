@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://service.sduept.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="FaultRecordServiceService" targetNamespace="http://service.sduept.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost/FaultRecordService.xsd" namespace="http://service.sduept.com/" />
+    </xsd:schema>
+  </types>
+  <message name="getFaultRecordByStationName">
+    <part name="parameters" element="tns:getFaultRecordByStationName" />
+  </message>
+  <message name="getFaultRecordByStationNameResponse">
+    <part name="parameters" element="tns:getFaultRecordByStationNameResponse" />
+  </message>
+  <message name="getFaultRecordByMainstationName">
+    <part name="parameters" element="tns:getFaultRecordByMainstationName" />
+  </message>
+  <message name="getFaultRecordByMainstationNameResponse">
+    <part name="parameters" element="tns:getFaultRecordByMainstationNameResponse" />
+  </message>
+  <message name="getFaultRecordByDeviceOneName">
+    <part name="parameters" element="tns:getFaultRecordByDeviceOneName" />
+  </message>
+  <message name="getFaultRecordByDeviceOneNameResponse">
+    <part name="parameters" element="tns:getFaultRecordByDeviceOneNameResponse" />
+  </message>
+  <message name="getFaultRecordByRecorderName">
+    <part name="parameters" element="tns:getFaultRecordByRecorderName" />
+  </message>
+  <message name="getFaultRecordByRecorderNameResponse">
+    <part name="parameters" element="tns:getFaultRecordByRecorderNameResponse" />
+  </message>
+  <message name="getFile">
+    <part name="parameters" element="tns:getFile" />
+  </message>
+  <message name="getFileResponse">
+    <part name="parameters" element="tns:getFileResponse" />
+  </message>
+  <portType name="FaultRecordService">
+    <operation name="getFaultRecordByStationName">
+      <input wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByStationNameRequest" message="tns:getFaultRecordByStationName" />
+      <output wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByStationNameResponse" message="tns:getFaultRecordByStationNameResponse" />
+    </operation>
+    <operation name="getFaultRecordByMainstationName">
+      <input wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByMainstationNameRequest" message="tns:getFaultRecordByMainstationName" />
+      <output wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByMainstationNameResponse" message="tns:getFaultRecordByMainstationNameResponse" />
+    </operation>
+    <operation name="getFaultRecordByDeviceOneName">
+      <input wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByDeviceOneNameRequest" message="tns:getFaultRecordByDeviceOneName" />
+      <output wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByDeviceOneNameResponse" message="tns:getFaultRecordByDeviceOneNameResponse" />
+    </operation>
+    <operation name="getFaultRecordByRecorderName">
+      <input wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByRecorderNameRequest" message="tns:getFaultRecordByRecorderName" />
+      <output wsam:Action="http://service.sduept.com/FaultRecordService/getFaultRecordByRecorderNameResponse" message="tns:getFaultRecordByRecorderNameResponse" />
+    </operation>
+    <operation name="getFile">
+      <input wsam:Action="http://service.sduept.com/FaultRecordService/getFileRequest" message="tns:getFile" />
+      <output wsam:Action="http://service.sduept.com/FaultRecordService/getFileResponse" message="tns:getFileResponse" />
+    </operation>
+  </portType>
+  <binding name="FaultRecordServicePortBinding" type="tns:FaultRecordService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="getFaultRecordByStationName">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getFaultRecordByMainstationName">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getFaultRecordByDeviceOneName">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getFaultRecordByRecorderName">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getFile">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FaultRecordServiceService">
+    <port name="FaultRecordServicePort" binding="tns:FaultRecordServicePortBinding">
+      <soap:address location="http://10.37.7.71:8087/WS1/service/FaultRecordService" />
+    </port>
+  </service>
+</definitions>

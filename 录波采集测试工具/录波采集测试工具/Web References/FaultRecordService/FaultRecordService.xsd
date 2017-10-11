@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://service.sduept.com/" targetNamespace="http://service.sduept.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="getFaultRecordByDeviceOneName" type="tns:getFaultRecordByDeviceOneName" />
+  <xs:element name="getFaultRecordByDeviceOneNameResponse" type="tns:getFaultRecordByDeviceOneNameResponse" />
+  <xs:element name="getFaultRecordByMainstationName" type="tns:getFaultRecordByMainstationName" />
+  <xs:element name="getFaultRecordByMainstationNameResponse" type="tns:getFaultRecordByMainstationNameResponse" />
+  <xs:element name="getFaultRecordByRecorderName" type="tns:getFaultRecordByRecorderName" />
+  <xs:element name="getFaultRecordByRecorderNameResponse" type="tns:getFaultRecordByRecorderNameResponse" />
+  <xs:element name="getFaultRecordByStationName" type="tns:getFaultRecordByStationName" />
+  <xs:element name="getFaultRecordByStationNameResponse" type="tns:getFaultRecordByStationNameResponse" />
+  <xs:element name="getFile" type="tns:getFile" />
+  <xs:element name="getFileResponse" type="tns:getFileResponse" />
+  <xs:complexType name="getFaultRecordByDeviceOneName">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+      <xs:element minOccurs="0" name="arg1" type="tns:time" />
+      <xs:element minOccurs="0" name="arg2" type="tns:time" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="time">
+    <xs:sequence>
+      <xs:element name="day" type="xs:int" />
+      <xs:element name="hour" type="xs:int" />
+      <xs:element name="minute" type="xs:int" />
+      <xs:element name="month" type="xs:int" />
+      <xs:element name="msecond" type="xs:int" />
+      <xs:element name="second" type="xs:int" />
+      <xs:element name="year" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByDeviceOneNameResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:faultRecordRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="faultRecordRtn">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="error" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="faultRecords" nillable="true" type="tns:faultRecord" />
+      <xs:element name="rtn" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="faultRecord">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="deviceOneName" type="xs:string" />
+      <xs:element minOccurs="0" name="faultTime" type="tns:time" />
+      <xs:element name="id" type="xs:long" />
+      <xs:element name="location" type="xs:float" />
+      <xs:element minOccurs="0" name="mainstationName" type="xs:string" />
+      <xs:element minOccurs="0" name="phase" type="xs:string" />
+      <xs:element minOccurs="0" name="recorderName" type="xs:string" />
+      <xs:element name="recorderType" type="xs:int" />
+      <xs:element minOccurs="0" name="stationName" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByMainstationName">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+      <xs:element minOccurs="0" name="arg1" type="tns:time" />
+      <xs:element minOccurs="0" name="arg2" type="tns:time" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByMainstationNameResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:faultRecordRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFile">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:long" />
+      <xs:element minOccurs="0" name="arg1" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFileResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:fileRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="fileRtn">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="bytes" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="error" type="xs:string" />
+      <xs:element name="rtn" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByRecorderName">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+      <xs:element minOccurs="0" name="arg1" type="tns:time" />
+      <xs:element minOccurs="0" name="arg2" type="tns:time" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByRecorderNameResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:faultRecordRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByStationName">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+      <xs:element minOccurs="0" name="arg1" type="tns:time" />
+      <xs:element minOccurs="0" name="arg2" type="tns:time" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFaultRecordByStationNameResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:faultRecordRtn" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<leidian>
+<!-- 0为调试,1为等待, 2为跳过 -->
+  <debug>0</debug>
+  <dajuxingzuoxia>114.128865681053_33.7461423579402</dajuxingzuoxia>
+  <dajuxingyoushang>115.214934318947_34.6444576420598</dajuxingyoushang>
+  <dajuxingbanjing></dajuxingbanjing>
+  <xiaojuxingbanjing>10</xiaojuxingbanjing>
+  <!-- 采集间隔 -->
+  <caijijiange>5</caijijiange>
+  <startdraw>114.128865681053_34.6444576420598</startdraw>
+   <!-- 采集开始时间 -->
+   <drawStartTime>2016-12-07 19:20:00</drawStartTime>
+  <drawEndTime>2016-12-07 19:25:00</drawEndTime>
+  <sqlConnection>Data Source=.;Initial Catalog=test;Integrated Security=true;</sqlConnection>
+</leidian>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://service.sduept.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="FaultReportServiceService" targetNamespace="http://service.sduept.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost/FaultReportService.xsd" namespace="http://service.sduept.com/" />
+    </xsd:schema>
+  </types>
+  <message name="getReportList">
+    <part name="parameters" element="tns:getReportList" />
+  </message>
+  <message name="getReportListResponse">
+    <part name="parameters" element="tns:getReportListResponse" />
+  </message>
+  <message name="getReportInfo">
+    <part name="parameters" element="tns:getReportInfo" />
+  </message>
+  <message name="getReportInfoResponse">
+    <part name="parameters" element="tns:getReportInfoResponse" />
+  </message>
+  <message name="getReportFile">
+    <part name="parameters" element="tns:getReportFile" />
+  </message>
+  <message name="getReportFileResponse">
+    <part name="parameters" element="tns:getReportFileResponse" />
+  </message>
+  <portType name="FaultReportService">
+    <operation name="getReportList">
+      <input wsam:Action="http://service.sduept.com/FaultReportService/getReportListRequest" message="tns:getReportList" />
+      <output wsam:Action="http://service.sduept.com/FaultReportService/getReportListResponse" message="tns:getReportListResponse" />
+    </operation>
+    <operation name="getReportInfo">
+      <input wsam:Action="http://service.sduept.com/FaultReportService/getReportInfoRequest" message="tns:getReportInfo" />
+      <output wsam:Action="http://service.sduept.com/FaultReportService/getReportInfoResponse" message="tns:getReportInfoResponse" />
+    </operation>
+    <operation name="getReportFile">
+      <input wsam:Action="http://service.sduept.com/FaultReportService/getReportFileRequest" message="tns:getReportFile" />
+      <output wsam:Action="http://service.sduept.com/FaultReportService/getReportFileResponse" message="tns:getReportFileResponse" />
+    </operation>
+  </portType>
+  <binding name="FaultReportServicePortBinding" type="tns:FaultReportService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="getReportList">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getReportInfo">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="getReportFile">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="FaultReportServiceService">
+    <port name="FaultReportServicePort" binding="tns:FaultReportServicePortBinding">
+      <soap:address location="http://10.37.7.71:8087/WS2/service/FaultReportService" />
+    </port>
+  </service>
+</definitions>

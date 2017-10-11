@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://webservice.lnsoft.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="GetFlashReadService" targetNamespace="http://webservice.lnsoft.com/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="C:\Users\dell\Desktop\雷电2017年9月7日102605\录波采集测试工具\Web References\LDService\LDService.xsd" namespace="http://webservice.lnsoft.com/" />
+    </xsd:schema>
+  </types>
+  <message name="getFlashByRect">
+    <part name="parameters" element="tns:getFlashByRect" />
+  </message>
+  <message name="getFlashByRectResponse">
+    <part name="parameters" element="tns:getFlashByRectResponse" />
+  </message>
+  <message name="IOException">
+    <part name="fault" element="tns:IOException" />
+  </message>
+  <message name="ParseException">
+    <part name="fault" element="tns:ParseException" />
+  </message>
+  <portType name="GetFlashRead">
+    <operation name="getFlashByRect">
+      <input wsam:Action="http://webservice.lnsoft.com/GetFlashRead/getFlashByRectRequest" message="tns:getFlashByRect" />
+      <output wsam:Action="http://webservice.lnsoft.com/GetFlashRead/getFlashByRectResponse" message="tns:getFlashByRectResponse" />
+      <fault wsam:Action="http://webservice.lnsoft.com/GetFlashRead/getFlashByRect/Fault/IOException" name="IOException" message="tns:IOException" />
+      <fault wsam:Action="http://webservice.lnsoft.com/GetFlashRead/getFlashByRect/Fault/ParseException" name="ParseException" message="tns:ParseException" />
+    </operation>
+  </portType>
+  <binding name="GetFlashReadPortBinding" type="tns:GetFlashRead">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="getFlashByRect">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+      <fault name="IOException">
+        <soap:fault use="literal" name="IOException" namespace="" />
+      </fault>
+      <fault name="ParseException">
+        <soap:fault use="literal" name="ParseException" namespace="" />
+      </fault>
+    </operation>
+  </binding>
+  <service name="GetFlashReadService">
+    <port name="GetFlashReadPort" binding="tns:GetFlashReadPortBinding">
+      <soap:address location="http://10.141.17.14:20190/LDService" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://service.sduept.com/" targetNamespace="http://service.sduept.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="getReportFile" type="tns:getReportFile" />
+  <xs:element name="getReportFileResponse" type="tns:getReportFileResponse" />
+  <xs:element name="getReportInfo" type="tns:getReportInfo" />
+  <xs:element name="getReportInfoResponse" type="tns:getReportInfoResponse" />
+  <xs:element name="getReportList" type="tns:getReportList" />
+  <xs:element name="getReportListResponse" type="tns:getReportListResponse" />
+  <xs:complexType name="getReportFile">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:int" />
+      <xs:element minOccurs="0" name="arg1" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getReportFileResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:fileRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="fileRtn">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="bytes" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="error" type="xs:string" />
+      <xs:element name="rtn" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getReportList">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="tns:time" />
+      <xs:element minOccurs="0" name="arg1" type="tns:time" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="time">
+    <xs:sequence>
+      <xs:element name="day" type="xs:int" />
+      <xs:element name="hour" type="xs:int" />
+      <xs:element name="minute" type="xs:int" />
+      <xs:element name="month" type="xs:int" />
+      <xs:element name="msecond" type="xs:int" />
+      <xs:element name="second" type="xs:int" />
+      <xs:element name="year" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getReportListResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:faultReportRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="faultReportRtn">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="error" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="faultReports" nillable="true" type="tns:faultReport" />
+      <xs:element name="rtn" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="faultReport">
+    <xs:sequence>
+      <xs:element name="actionAssess" type="xs:int" />
+      <xs:element minOccurs="0" name="actionTime" type="tns:time" />
+      <xs:element minOccurs="0" name="checkUser" type="xs:string" />
+      <xs:element minOccurs="0" name="deviceName" type="xs:string" />
+      <xs:element minOccurs="0" name="deviceType" type="xs:string" />
+      <xs:element minOccurs="0" name="faultType" type="xs:string" />
+      <xs:element name="id" type="xs:int" />
+      <xs:element minOccurs="0" name="keyinUser" type="xs:string" />
+      <xs:element minOccurs="0" name="passUser" type="xs:string" />
+      <xs:element minOccurs="0" name="submitTime" type="tns:time" />
+      <xs:element minOccurs="0" name="voltage" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getReportInfo">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getReportInfoResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:reportInfoRtn" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="reportInfoRtn">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="error" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="reportInfo" nillable="true" type="tns:reportInfo" />
+      <xs:element name="rtn" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="reportInfo">
+    <xs:sequence>
+      <xs:element name="actionAssess" type="xs:int" />
+      <xs:element minOccurs="0" name="actionInfo" type="xs:string" />
+      <xs:element minOccurs="0" name="actionTime" type="tns:time" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="actionTimers" nillable="true" type="tns:actionTimer" />
+      <xs:element minOccurs="0" name="deviceName" type="xs:string" />
+      <xs:element minOccurs="0" name="deviceType" type="xs:string" />
+      <xs:element minOccurs="0" name="faultType" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="records" nillable="true" type="tns:record" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="relays" nillable="true" type="tns:relay" />
+      <xs:element minOccurs="0" name="submitTime" type="tns:time" />
+      <xs:element minOccurs="0" name="voltage" type="xs:string" />
+      <xs:element minOccurs="0" name="weather" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="actionTimer">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="actionComponent" type="xs:string" />
+      <xs:element minOccurs="0" name="actionType" type="xs:string" />
+      <xs:element name="curDevice" type="xs:int" />
+      <xs:element name="curSide" type="xs:int" />
+      <xs:element minOccurs="0" name="deviceModel" type="xs:string" />
+      <xs:element name="id" type="xs:int" />
+      <xs:element minOccurs="0" name="launchTime" type="xs:string" />
+      <xs:element name="relativeTime" type="xs:float" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="record">
+    <xs:sequence>
+      <xs:element name="distance" type="xs:float" />
+      <xs:element name="faultA" type="xs:float" />
+      <xs:element name="faultRemoveTime" type="xs:int" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="fileLists" nillable="true" type="tns:recordFile" />
+      <xs:element name="id" type="xs:int" />
+      <xs:element minOccurs="0" name="name" type="xs:string" />
+      <xs:element name="side" type="xs:int" />
+      <xs:element minOccurs="0" name="station" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="recordFile">
+    <xs:sequence>
+      <xs:element name="id" type="xs:int" />
+      <xs:element minOccurs="0" name="name" type="xs:string" />
+      <xs:element minOccurs="0" name="postfix" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="relay">
+    <xs:sequence>
+      <xs:element name="actionOk" type="xs:int" />
+      <xs:element minOccurs="0" name="belongUnit" type="xs:string" />
+      <xs:element minOccurs="0" name="channel" type="xs:string" />
+      <xs:element minOccurs="0" name="errorDept" type="xs:string" />
+      <xs:element minOccurs="0" name="errorType" type="xs:string" />
+      <xs:element minOccurs="0" name="factory" type="xs:string" />
+      <xs:element name="id" type="xs:int" />
+      <xs:element minOccurs="0" name="model" type="xs:string" />
+      <xs:element name="reswitchOk" type="xs:int" />
+      <xs:element minOccurs="0" name="reswitchType" type="xs:string" />
+      <xs:element minOccurs="0" name="runDate" type="xs:string" />
+      <xs:element name="side" type="xs:int" />
+      <xs:element minOccurs="0" name="station" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

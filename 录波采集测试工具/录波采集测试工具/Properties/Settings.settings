@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="录波采集测试工具.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="录波采集测试工具_FaultReportService_FaultReportServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.37.7.71:8087/WS2/service/FaultReportService</Value>
+    </Setting>
+    <Setting Name="录波采集测试工具_FaultRecordService_FaultRecordServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://10.37.7.71:8087/WS1/service/FaultRecordService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

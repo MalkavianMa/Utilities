@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naviLink", "naviLink\naviLink.csproj", "{B5592387-C435-489D-9654-75C2F0112EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DButility", "DButility\DButility.csproj", "{F746ABE9-E97C-418A-8F77-F8E5A05F4135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{74D4CCCD-D41B-4BCC-9CD1-1260AE002F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5592387-C435-489D-9654-75C2F0112EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5592387-C435-489D-9654-75C2F0112EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5592387-C435-489D-9654-75C2F0112EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5592387-C435-489D-9654-75C2F0112EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F746ABE9-E97C-418A-8F77-F8E5A05F4135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F746ABE9-E97C-418A-8F77-F8E5A05F4135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F746ABE9-E97C-418A-8F77-F8E5A05F4135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F746ABE9-E97C-418A-8F77-F8E5A05F4135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D4CCCD-D41B-4BCC-9CD1-1260AE002F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D4CCCD-D41B-4BCC-9CD1-1260AE002F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D4CCCD-D41B-4BCC-9CD1-1260AE002F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D4CCCD-D41B-4BCC-9CD1-1260AE002F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

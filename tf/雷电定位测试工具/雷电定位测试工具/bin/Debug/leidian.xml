@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<leidian>
+<!-- 0为等待,1为文本调试, 2为跳过 -->
+  <debug>2</debug>
+  <!-- 启用文本调试,0为关闭,1为启用 -->
+  <isTXT>1</isTXT>
+  <!-- 重复记录数大于该数,跳过 -->
+  <innum>25</innum>
+  <!-- 看拼音 -->
+  <dajuxingzuoxia>114.128865681053_33.7461423579402</dajuxingzuoxia>
+  <dajuxingyoushang>115.214934318947_34.6444576420598</dajuxingyoushang>
+  <dajuxingbanjing></dajuxingbanjing>
+  <xiaojuxingbanjing>10</xiaojuxingbanjing>
+  <caijijiange>5</caijijiange>
+  <!-- 左上第一个点开始点 -->
+  <startdraw>114.128865681053_34.6444576420598</startdraw>
+<!-- 开始时间   -->
+  <drawStartTime>2016-12-07 19:20:00</drawStartTime>
+  <drawEndTime>2016-12-07 19:25:00</drawEndTime>
+  <sqlConnection>Data Source=.;Initial Catalog=test;Integrated Security=true;</sqlConnection>
+</leidian>
