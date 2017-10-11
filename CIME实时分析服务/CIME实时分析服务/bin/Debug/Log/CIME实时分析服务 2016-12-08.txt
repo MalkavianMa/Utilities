@@ -1,0 +1,946 @@
+CIME实时分析服务启动。  2016-12-08 16:18:11.784
+CIME实时分析服务出错！输入字符串的格式不正确。  2016-12-08 16:18:11.948
+CIME实时分析服务启动。  2016-12-08 16:21:00.983
+CIME实时分析服务出错！输入字符串的格式不正确。  2016-12-08 16:21:01.030
+CIME实时分析服务启动。  2016-12-08 16:22:53.667
+获取ftp文件列表失败（path=ftp://localhost/var/fileserv/record_file/）： 远程服务器返回错误: (530) 未登录。  2016-12-08 16:22:53.835
+尝试再次获取文件列表  2016-12-08 16:22:58.837
+再次获取文件列表失败远程服务器返回错误: (530) 未登录。  2016-12-08 16:22:58.898
+获取ftp文件列表失败（path=ftp://localhost/var/fileserv/record_file/）： 远程服务器返回错误: (530) 未登录。  2016-12-08 16:22:59.961
+尝试再次获取文件列表  2016-12-08 16:23:04.963
+再次获取文件列表失败远程服务器返回错误: (530) 未登录。  2016-12-08 16:23:05.034
+获取ftp文件列表失败（path=ftp://localhost/var/fileserv/record_file/）： 远程服务器返回错误: (530) 未登录。  2016-12-08 16:23:06.097
+CIME实时分析服务启动。  2016-12-08 16:23:18.744
+CIME实时分析服务启动。  2016-12-08 16:24:21.393
+CIME实时分析服务启动。  2016-12-08 16:24:40.497
+CIME实时分析服务启动。  2016-12-08 16:24:55.073
+CIME实时分析服务启动。  2016-12-08 16:26:55.282
+CIME实时分析服务启动。  2016-12-08 16:28:07.085
+CIME实时分析服务启动。  2016-12-08 16:28:24.344
+CIME实时分析服务启动。  2016-12-08 16:29:15.930
+CIME实时分析服务启动。  2016-12-08 16:31:17.543
+CIME实时分析服务启动。  2016-12-08 16:35:00.592
+CIME实时分析服务启动。  2016-12-08 16:38:37.496
+CIME实时分析服务启动。  2016-12-08 16:42:39.678
+CIME实时分析服务启动。  2016-12-08 16:43:29.592
+CIME实时分析服务启动。  2016-12-08 16:43:50.039
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。  2016-12-08 16:43:56.493
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。  2016-12-08 16:44:00.139
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。  2016-12-08 16:44:02.979
+CIME实时分析服务启动。  2016-12-08 16:44:41.616
+CIME实时分析服务启动。  2016-12-08 16:45:46.211
+CIME实时分析服务启动。  2016-12-08 16:46:30.307
+CIME实时分析服务启动。  2016-12-08 16:47:11.344
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592238.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592238.RB。  2016-12-08 16:47:54.099
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592238.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:17.208
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000745.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000745.RB。  2016-12-08 16:48:31.163
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000745.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:31.475
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815512717.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815512717.RB。  2016-12-08 16:48:31.493
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815512717.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:31.797
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133937.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133937.RB。  2016-12-08 16:48:31.809
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133937.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:32.116
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815201042.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815201042.RB。  2016-12-08 16:48:32.124
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815201042.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:32.432
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815495314.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815495314.RB。  2016-12-08 16:48:32.439
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815495314.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:32.747
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001811.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001811.RB。  2016-12-08 16:48:32.755
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001811.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:33.060
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815385078.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815385078.RB。  2016-12-08 16:48:33.068
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815385078.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:33.371
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815462104.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815462104.RB。  2016-12-08 16:48:33.413
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815462104.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:33.729
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815264148.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815264148.RB。  2016-12-08 16:48:33.738
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815264148.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:34.046
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815335966.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815335966.RB。  2016-12-08 16:48:34.055
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815335966.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:34.358
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204256.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204256.RB。  2016-12-08 16:48:34.366
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204256.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:34.675
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814561702.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814561702.RB。  2016-12-08 16:48:34.687
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814561702.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:34.995
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816145748.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816145748.RB。  2016-12-08 16:48:35.003
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816145748.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:35.309
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816440772.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816440772.RB。  2016-12-08 16:48:35.321
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816440772.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:35.628
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815480909.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815480909.RB。  2016-12-08 16:48:35.635
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815480909.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:35.948
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815180840.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815180840.RB。  2016-12-08 16:48:35.956
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815180840.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:36.260
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383467.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383467.RB。  2016-12-08 16:48:36.268
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383467.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:36.573
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815061520.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815061520.RB。  2016-12-08 16:48:36.584
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815061520.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:36.893
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815313959.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815313959.RB。  2016-12-08 16:48:36.902
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815313959.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:37.208
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383868.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383868.RB。  2016-12-08 16:48:37.216
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383868.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:37.521
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383466.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383466.RB。  2016-12-08 16:48:37.528
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816383466.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:37.837
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431282.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431282.RB。  2016-12-08 16:48:37.843
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431282.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:38.151
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192051.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192051.RB。  2016-12-08 16:48:38.161
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192051.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:38.464
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815302057.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815302057.RB。  2016-12-08 16:48:38.472
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815302057.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:38.777
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814561703.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814561703.RB。  2016-12-08 16:48:38.784
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814561703.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:39.091
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431383.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431383.RB。  2016-12-08 16:48:39.098
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431383.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:48:39.405
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394270.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816394270.RB。  2016-12-08 16:48:39.412
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394270.RB失败！...服务端未响应!  2016-12-08 16:49:21.534
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394270.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816394270.RB。  2016-12-08 16:49:34.797
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394270.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:35.105
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815030015.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815030015.RB。  2016-12-08 16:49:35.116
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815030015.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:35.420
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815483610.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815483610.RB。  2016-12-08 16:49:35.428
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815483610.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:35.739
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394169.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816394169.RB。  2016-12-08 16:49:35.747
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816394169.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:36.055
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815460002.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815460002.RB。  2016-12-08 16:49:36.068
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815460002.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:36.180
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372274.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372274.RB。  2016-12-08 16:49:36.187
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372274.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:36.383
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815091027.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815091027.RB。  2016-12-08 16:49:36.390
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815091027.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:36.695
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815265949.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815265949.RB。  2016-12-08 16:49:36.703
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815265949.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:37.013
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592440.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592440.RB。  2016-12-08 16:49:37.020
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592440.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:37.326
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293453.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293453.RB。  2016-12-08 16:49:37.334
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293453.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:37.643
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815104229.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815104229.RB。  2016-12-08 16:49:37.650
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815104229.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:37.955
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816195955.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816195955.RB。  2016-12-08 16:49:37.963
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816195955.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:38.269
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815462103.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815462103.RB。  2016-12-08 16:49:38.281
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815462103.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:38.591
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293954.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293954.RB。  2016-12-08 16:49:38.599
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293954.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:38.905
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372375.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372375.RB。  2016-12-08 16:49:38.915
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372375.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:39.024
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570025.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570025.RB。  2016-12-08 16:49:39.032
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570025.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:39.224
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815485611.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815485611.RB。  2016-12-08 16:49:39.232
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815485611.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:39.536
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815562623.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815562623.RB。  2016-12-08 16:49:39.545
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815562623.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:39.853
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192054.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192054.RB。  2016-12-08 16:49:39.861
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192054.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:40.165
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293955.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293955.RB。  2016-12-08 16:49:40.172
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815293955.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:40.479
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001812.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001812.RB。  2016-12-08 16:49:40.489
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001812.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:40.795
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815493113.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815493113.RB。  2016-12-08 16:49:40.803
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815493113.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:41.115
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815092028.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815092028.RB。  2016-12-08 16:49:41.122
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815092028.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:41.429
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815083125.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815083125.RB。  2016-12-08 16:49:41.437
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815083125.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:41.744
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204257.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204257.RB。  2016-12-08 16:49:41.753
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204257.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:42.058
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815505616.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815505616.RB。  2016-12-08 16:49:42.071
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815505616.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:42.382
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815325062.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815325062.RB。  2016-12-08 16:49:42.389
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815325062.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:42.696
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431281.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431281.RB。  2016-12-08 16:49:42.703
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431281.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:43.008
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815421680.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815421680.RB。  2016-12-08 16:49:43.021
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815421680.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:43.325
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815121332.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815121332.RB。  2016-12-08 16:49:43.334
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815121332.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:43.644
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815130433.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815130433.RB。  2016-12-08 16:49:43.651
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815130433.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:43.966
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815183441.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815183441.RB。  2016-12-08 16:49:43.973
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815183441.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:44.280
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815575130.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815575130.RB。  2016-12-08 16:49:44.294
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815575130.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:44.602
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815283552.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815283552.RB。  2016-12-08 16:49:44.611
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815283552.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:44.920
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000242.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000242.RB。  2016-12-08 16:49:44.928
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000242.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:45.236
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815024914.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815024914.RB。  2016-12-08 16:49:45.255
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815024914.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:45.562
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133936.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133936.RB。  2016-12-08 16:49:45.570
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133936.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:45.876
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815450901.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815450901.RB。  2016-12-08 16:49:45.884
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815450901.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:46.191
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816490574.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816490574.RB。  2016-12-08 16:49:46.200
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816490574.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:46.508
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815275750.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815275750.RB。  2016-12-08 16:49:46.518
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815275750.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:46.629
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814554501.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814554501.RB。  2016-12-08 16:49:46.642
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814554501.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:46.828
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816483873.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816483873.RB。  2016-12-08 16:49:46.837
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816483873.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:46.947
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204258.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204258.RB。  2016-12-08 16:49:46.955
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204258.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:47.147
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815334365.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815334365.RB。  2016-12-08 16:49:47.155
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815334365.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:47.461
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815541721.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815541721.RB。  2016-12-08 16:49:47.475
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815541721.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:47.781
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815320060.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815320060.RB。  2016-12-08 16:49:47.790
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815320060.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:48.098
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815562624.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815562624.RB。  2016-12-08 16:49:48.106
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815562624.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:48.413
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814571804.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814571804.RB。  2016-12-08 16:49:48.421
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814571804.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:48.727
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815212644.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815212644.RB。  2016-12-08 16:49:48.736
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815212644.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:49.040
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815275751.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815275751.RB。  2016-12-08 16:49:49.049
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815275751.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:49.355
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816272060.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816272060.RB。  2016-12-08 16:49:49.364
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816272060.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:49.669
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372273.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372273.RB。  2016-12-08 16:49:49.677
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372273.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:49.983
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815111630.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815111630.RB。  2016-12-08 16:49:49.991
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815111630.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:50.301
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815040116.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815040116.RB。  2016-12-08 16:49:50.309
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815040116.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:50.616
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815450900.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815450900.RB。  2016-12-08 16:49:50.623
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815450900.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:50.932
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815040917.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815040917.RB。  2016-12-08 16:49:50.940
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815040917.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:51.243
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815214845.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815214845.RB。  2016-12-08 16:49:51.251
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815214845.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:51.558
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815581033.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815581033.RB。  2016-12-08 16:49:51.565
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815581033.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:51.872
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816440671.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816440671.RB。  2016-12-08 16:49:51.880
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816440671.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:52.186
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815163139.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815163139.RB。  2016-12-08 16:49:52.194
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815163139.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:52.503
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204259.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204259.RB。  2016-12-08 16:49:52.512
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816204259.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:52.818
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815351670.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815351670.RB。  2016-12-08 16:49:52.826
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815351670.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:53.130
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815330863.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815330863.RB。  2016-12-08 16:49:53.138
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815330863.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:53.446
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815583735.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815583735.RB。  2016-12-08 16:49:53.462
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815583735.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:53.779
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815475208.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815475208.RB。  2016-12-08 16:49:53.788
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815475208.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:54.097
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815343167.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815343167.RB。  2016-12-08 16:49:54.104
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815343167.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:54.415
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133835.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133835.RB。  2016-12-08 16:49:54.422
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815133835.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:54.732
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816130547.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816130547.RB。  2016-12-08 16:49:54.739
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816130547.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:55.048
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815362972.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815362972.RB。  2016-12-08 16:49:55.056
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815362972.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:55.362
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570026.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570026.RB。  2016-12-08 16:49:55.369
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570026.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:55.674
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592239.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592239.RB。  2016-12-08 16:49:55.682
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592239.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:55.990
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815321561.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815321561.RB。  2016-12-08 16:49:55.999
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815321561.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:56.307
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815474607.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815474607.RB。  2016-12-08 16:49:56.314
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815474607.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:56.624
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815580531.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815580531.RB。  2016-12-08 16:49:56.632
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815580531.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:56.936
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815260047.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815260047.RB。  2016-12-08 16:49:56.945
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815260047.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:57.252
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815531419.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815531419.RB。  2016-12-08 16:49:57.260
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815531419.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:57.566
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592237.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592237.RB。  2016-12-08 16:49:57.574
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592237.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:57.882
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815350169.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815350169.RB。  2016-12-08 16:49:57.889
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815350169.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:58.200
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816163049.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816163049.RB。  2016-12-08 16:49:58.206
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816163049.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:58.516
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815043818.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815043818.RB。  2016-12-08 16:49:58.524
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815043818.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:58.831
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815492412.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815492412.RB。  2016-12-08 16:49:58.840
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815492412.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:59.148
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815512818.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815512818.RB。  2016-12-08 16:49:59.155
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815512818.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:59.463
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815064022.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815064022.RB。  2016-12-08 16:49:59.472
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815064022.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:49:59.777
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192053.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192053.RB。  2016-12-08 16:49:59.785
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192053.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:00.090
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815333864.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815333864.RB。  2016-12-08 16:50:00.098
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815333864.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:00.406
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815474206.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815474206.RB。  2016-12-08 16:50:00.415
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815474206.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:00.722
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814575106.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB。  2016-12-08 16:50:00.733
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814575106.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:01.036
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816083746.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816083746.RB。  2016-12-08 16:50:01.044
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816083746.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:01.350
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815501515.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815501515.RB。  2016-12-08 16:50:01.357
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815501515.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:01.666
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816382665.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816382665.RB。  2016-12-08 16:50:01.674
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816382665.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:01.979
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815083326.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815083326.RB。  2016-12-08 16:50:01.987
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815083326.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:02.307
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000243.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000243.RB。  2016-12-08 16:50:02.314
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000243.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:02.621
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815241646.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815241646.RB。  2016-12-08 16:50:02.628
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815241646.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:02.934
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815070923.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815070923.RB。  2016-12-08 16:50:02.943
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815070923.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:03.250
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000744.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000744.RB。  2016-12-08 16:50:03.280
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816000744.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:03.589
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815210843.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815210843.RB。  2016-12-08 16:50:03.597
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815210843.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:03.901
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814574705.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814574705.RB。  2016-12-08 16:50:03.909
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814574705.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:04.218
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815580532.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815580532.RB。  2016-12-08 16:50:04.231
+CIME实时分析服务启动。  2016-12-08 16:50:20.754
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814554501.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814554501.RB。  2016-12-08 16:50:20.866
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814561702.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814561702.RB。  2016-12-08 16:50:20.867
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814561703.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814561703.RB。  2016-12-08 16:50:20.870
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814571804.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814571804.RB。  2016-12-08 16:50:20.871
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814574705.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814574705.RB。  2016-12-08 16:50:20.872
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:20.922
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:20.932
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001811.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815001811.RB。  2016-12-08 16:50:20.933
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001812.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815001812.RB。  2016-12-08 16:50:20.936
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815024914.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815024914.RB。  2016-12-08 16:50:20.937
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815030015.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815030015.RB。  2016-12-08 16:50:20.938
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815040116.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815040116.RB。  2016-12-08 16:50:20.939
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815040917.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815040917.RB。  2016-12-08 16:50:20.940
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815043818.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815043818.RB。  2016-12-08 16:50:21.078
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815061520.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815061520.RB。  2016-12-08 16:50:21.079
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815064022.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815064022.RB。  2016-12-08 16:50:21.080
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815070923.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815070923.RB。  2016-12-08 16:50:21.081
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815083125.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815083125.RB。  2016-12-08 16:50:21.083
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815083326.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815083326.RB。  2016-12-08 16:50:21.084
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815091027.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815091027.RB。  2016-12-08 16:50:21.156
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815092028.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815092028.RB。  2016-12-08 16:50:21.162
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815104229.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815104229.RB。  2016-12-08 16:50:21.278
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815111630.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815111630.RB。  2016-12-08 16:50:21.279
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815121332.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815121332.RB。  2016-12-08 16:50:21.280
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815130433.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815130433.RB。  2016-12-08 16:50:21.281
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133835.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815133835.RB。  2016-12-08 16:50:21.283
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133936.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815133936.RB。  2016-12-08 16:50:21.290
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815133937.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815133937.RB。  2016-12-08 16:50:21.296
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815163139.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815163139.RB。  2016-12-08 16:50:21.301
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816494175.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816494175.RB。  2016-12-08 16:50:21.395
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815180840.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815180840.RB。  2016-12-08 16:50:21.478
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815183441.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815183441.RB。  2016-12-08 16:50:21.479
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815201042.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815201042.RB。  2016-12-08 16:50:21.486
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815210843.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815210843.RB。  2016-12-08 16:50:21.487
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815212644.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815212644.RB。  2016-12-08 16:50:21.488
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815214845.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815214845.RB。  2016-12-08 16:50:21.495
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815241646.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815241646.RB。  2016-12-08 16:50:21.496
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815260047.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815260047.RB。  2016-12-08 16:50:21.500
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816494175.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:21.619
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815580532.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815580532.RB。  2016-12-08 16:50:21.628
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815264148.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815264148.RB。  2016-12-08 16:50:21.679
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815265949.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815265949.RB。  2016-12-08 16:50:21.686
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815275750.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815275750.RB。  2016-12-08 16:50:21.688
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815275751.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815275751.RB。  2016-12-08 16:50:21.698
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815283552.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815283552.RB。  2016-12-08 16:50:21.704
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293453.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815293453.RB。  2016-12-08 16:50:21.705
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293954.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815293954.RB。  2016-12-08 16:50:21.706
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815293955.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815293955.RB。  2016-12-08 16:50:21.707
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815302057.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815302057.RB。  2016-12-08 16:50:21.884
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815313959.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815313959.RB。  2016-12-08 16:50:21.885
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815320060.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815320060.RB。  2016-12-08 16:50:21.892
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815321561.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815321561.RB。  2016-12-08 16:50:21.893
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815325062.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815325062.RB。  2016-12-08 16:50:21.894
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815330863.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815330863.RB。  2016-12-08 16:50:21.895
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815333864.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815333864.RB。  2016-12-08 16:50:21.896
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815334365.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815334365.RB。  2016-12-08 16:50:21.898
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815580532.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:21.934
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816183850.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816183850.RB。  2016-12-08 16:50:21.942
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815335966.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815335966.RB。  2016-12-08 16:50:22.081
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815343167.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815343167.RB。  2016-12-08 16:50:22.082
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815350169.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815350169.RB。  2016-12-08 16:50:22.083
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815351670.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815351670.RB。  2016-12-08 16:50:22.084
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815362972.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815362972.RB。  2016-12-08 16:50:22.085
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372273.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815372273.RB。  2016-12-08 16:50:22.086
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372274.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815372274.RB。  2016-12-08 16:50:22.087
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372375.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815372375.RB。  2016-12-08 16:50:22.089
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816183850.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:22.251
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192052.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192052.RB。  2016-12-08 16:50:22.261
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815385078.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815385078.RB。  2016-12-08 16:50:22.281
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815421680.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815421680.RB。  2016-12-08 16:50:22.282
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431281.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815431281.RB。  2016-12-08 16:50:22.283
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431282.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815431282.RB。  2016-12-08 16:50:22.284
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431383.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815431383.RB。  2016-12-08 16:50:22.285
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815450900.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815450900.RB。  2016-12-08 16:50:22.287
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815450901.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815450901.RB。  2016-12-08 16:50:22.289
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815460002.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815460002.RB。  2016-12-08 16:50:22.290
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816192052.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:22.376
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815121131.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815121131.RB。  2016-12-08 16:50:22.389
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815462103.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815462103.RB。  2016-12-08 16:50:22.481
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815462104.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815462104.RB。  2016-12-08 16:50:22.482
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815474206.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815474206.RB。  2016-12-08 16:50:22.483
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815474607.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815474607.RB。  2016-12-08 16:50:22.484
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815475208.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815475208.RB。  2016-12-08 16:50:22.485
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815480909.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815480909.RB。  2016-12-08 16:50:22.487
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815483610.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815483610.RB。  2016-12-08 16:50:22.488
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815485611.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815485611.RB。  2016-12-08 16:50:22.489
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815121131.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:22.574
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815301456.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815301456.RB。  2016-12-08 16:50:22.581
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815492412.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815492412.RB。  2016-12-08 16:50:22.682
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815493113.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815493113.RB。  2016-12-08 16:50:22.683
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815495314.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815495314.RB。  2016-12-08 16:50:22.684
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815501515.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815501515.RB。  2016-12-08 16:50:22.685
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815505616.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815505616.RB。  2016-12-08 16:50:22.687
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815512717.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815512717.RB。  2016-12-08 16:50:22.689
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815512818.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815512818.RB。  2016-12-08 16:50:22.690
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815531419.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815531419.RB。  2016-12-08 16:50:22.696
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815541721.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815541721.RB。  2016-12-08 16:50:22.882
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815562623.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815562623.RB。  2016-12-08 16:50:22.883
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815562624.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815562624.RB。  2016-12-08 16:50:22.884
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570025.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815570025.RB。  2016-12-08 16:50:22.885
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570026.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815570026.RB。  2016-12-08 16:50:22.886
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815575130.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815575130.RB。  2016-12-08 16:50:22.888
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815580531.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815580531.RB。  2016-12-08 16:50:22.889
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815580532.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815580532.RB。  2016-12-08 16:50:22.890
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815301456.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:22.892
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816351964.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816351964.RB。  2016-12-08 16:50:22.900
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815581033.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815581033.RB。  2016-12-08 16:50:23.083
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815583735.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815583735.RB。  2016-12-08 16:50:23.084
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592237.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592237.RB。  2016-12-08 16:50:23.086
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592238.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592238.RB。  2016-12-08 16:50:23.088
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592239.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592239.RB。  2016-12-08 16:50:23.089
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592440.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592440.RB。  2016-12-08 16:50:23.090
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000242.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816000242.RB。  2016-12-08 16:50:23.091
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816351964.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:23.207
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001510.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001510.RB。  2016-12-08 16:50:23.217
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000243.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816000243.RB。  2016-12-08 16:50:23.283
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000744.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816000744.RB。  2016-12-08 16:50:23.285
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816000745.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816000745.RB。  2016-12-08 16:50:23.286
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816083746.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816083746.RB。  2016-12-08 16:50:23.287
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816130547.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816130547.RB。  2016-12-08 16:50:23.288
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816145748.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816145748.RB。  2016-12-08 16:50:23.289
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816163049.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816163049.RB。  2016-12-08 16:50:23.291
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192051.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816192051.RB。  2016-12-08 16:50:23.292
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192053.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816192053.RB。  2016-12-08 16:50:23.483
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192054.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816192054.RB。  2016-12-08 16:50:23.486
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816195955.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816195955.RB。  2016-12-08 16:50:23.487
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204256.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816204256.RB。  2016-12-08 16:50:23.522
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204257.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816204257.RB。  2016-12-08 16:50:23.523
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001510.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:23.524
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204258.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816204258.RB。  2016-12-08 16:50:23.524
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816204259.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816204259.RB。  2016-12-08 16:50:23.526
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816272060.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816272060.RB。  2016-12-08 16:50:23.528
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816283361.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816283361.RB。  2016-12-08 16:50:23.532
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816382665.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816382665.RB。  2016-12-08 16:50:23.684
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383466.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816383466.RB。  2016-12-08 16:50:23.686
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383467.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816383467.RB。  2016-12-08 16:50:23.688
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816383868.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816383868.RB。  2016-12-08 16:50:23.690
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816394169.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816394169.RB。  2016-12-08 16:50:23.691
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816394270.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816394270.RB。  2016-12-08 16:50:23.693
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816440671.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816440671.RB。  2016-12-08 16:50:23.694
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816440772.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816440772.RB。  2016-12-08 16:50:23.695
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816283361.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:23.837
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815575129.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815575129.RB。  2016-12-08 16:50:23.851
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816483873.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816483873.RB。  2016-12-08 16:50:23.884
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816490574.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816490574.RB。  2016-12-08 16:50:23.886
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815575129.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:24.159
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815581034.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815581034.RB。  2016-12-08 16:50:24.166
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815581034.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:24.471
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815544022.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815544022.RB。  2016-12-08 16:50:24.479
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815544022.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:24.786
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814582107.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB。  2016-12-08 16:50:24.794
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:24.921
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:24.934
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:24.945
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001510.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815001510.RB。  2016-12-08 16:50:24.947
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815121131.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815121131.RB。  2016-12-08 16:50:24.949
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815301456.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815301456.RB。  2016-12-08 16:50:24.950
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815544022.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815544022.RB。  2016-12-08 16:50:24.952
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815575129.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815575129.RB。  2016-12-08 16:50:24.954
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815581034.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815581034.RB。  2016-12-08 16:50:25.097
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816183850.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816183850.RB。  2016-12-08 16:50:25.098
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816192052.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816192052.RB。  2016-12-08 16:50:25.099
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816283361.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816283361.RB。  2016-12-08 16:50:25.101
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816351964.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816351964.RB。  2016-12-08 16:50:25.102
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816494175.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816494175.RB。  2016-12-08 16:50:25.103
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814582107.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:25.111
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815471105.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815471105.RB。  2016-12-08 16:50:25.121
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815471105.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:25.427
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570528.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570528.RB。  2016-12-08 16:50:25.438
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570528.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:25.749
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592441.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592441.RB。  2016-12-08 16:50:25.758
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592441.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:25.865
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815074424.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815074424.RB。  2016-12-08 16:50:25.872
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815074424.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:26.071
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592236.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592236.RB。  2016-12-08 16:50:26.079
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:26.137
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:26.150
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:26.162
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815074424.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815074424.RB。  2016-12-08 16:50:26.164
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815471105.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815471105.RB。  2016-12-08 16:50:26.165
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570528.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815570528.RB。  2016-12-08 16:50:26.167
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592236.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592236.RB。  2016-12-08 16:50:26.168
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815592441.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815592441.RB。  2016-12-08 16:50:26.170
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815592236.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:26.383
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815302058.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815302058.RB。  2016-12-08 16:50:26.391
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815302058.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:26.697
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570527.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570527.RB。  2016-12-08 16:50:26.704
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815570527.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:27.013
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815130834.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815130834.RB。  2016-12-08 16:50:27.021
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:27.185
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:27.196
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:27.207
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815130834.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815130834.RB。  2016-12-08 16:50:27.209
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815302058.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815302058.RB。  2016-12-08 16:50:27.215
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815570527.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815570527.RB。  2016-12-08 16:50:27.220
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815130834.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:27.328
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814583308.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB。  2016-12-08 16:50:27.336
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120814583308.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:27.646
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816321963.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816321963.RB。  2016-12-08 16:50:27.653
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816321963.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:27.958
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815385379.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815385379.RB。  2016-12-08 16:50:27.966
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:28.248
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:28.260
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:28.271
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815385379.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815385379.RB。  2016-12-08 16:50:28.273
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815385379.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:28.274
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816321963.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816321963.RB。  2016-12-08 16:50:28.275
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431384.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431384.RB。  2016-12-08 16:50:28.282
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815431384.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:28.591
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815534420.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815534420.RB。  2016-12-08 16:50:28.599
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815534420.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:28.909
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001509.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001509.RB。  2016-12-08 16:50:28.917
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001509.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:29.225
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372376.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372376.RB。  2016-12-08 16:50:29.237
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:29.300
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:29.311
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:29.323
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001509.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815001509.RB。  2016-12-08 16:50:29.350
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815372376.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815372376.RB。  2016-12-08 16:50:29.352
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815431384.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815431384.RB。  2016-12-08 16:50:29.353
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815534420.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815534420.RB。  2016-12-08 16:50:29.355
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815372376.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:29.545
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816283862.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816283862.RB。  2016-12-08 16:50:29.554
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816283862.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:29.659
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815043819.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815043819.RB。  2016-12-08 16:50:29.666
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815043819.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:29.975
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815061521.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815061521.RB。  2016-12-08 16:50:29.992
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815061521.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:30.302
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815383677.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815383677.RB。  2016-12-08 16:50:30.310
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:30.376
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:30.385
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:30.399
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815043819.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815043819.RB。  2016-12-08 16:50:30.401
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815061521.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815061521.RB。  2016-12-08 16:50:30.403
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815383677.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815383677.RB。  2016-12-08 16:50:30.404
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816283862.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816283862.RB。  2016-12-08 16:50:30.406
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815383677.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:30.615
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815355871.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815355871.RB。  2016-12-08 16:50:30.623
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815355871.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:30.934
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815345368.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815345368.RB。  2016-12-08 16:50:30.941
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815345368.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:31.247
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001813.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001813.RB。  2016-12-08 16:50:31.255
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:31.420
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:31.436
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:31.450
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815001813.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815001813.RB。  2016-12-08 16:50:31.451
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815345368.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815345368.RB。  2016-12-08 16:50:31.458
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815355871.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815355871.RB。  2016-12-08 16:50:31.459
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815001813.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:31.559
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815161138.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815161138.RB。  2016-12-08 16:50:31.566
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120815161138.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:31.822
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:32.488
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:32.498
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:32.508
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120815161138.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120815161138.RB。  2016-12-08 16:50:32.510
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:33.527
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:33.539
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:33.549
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:34.576
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:34.588
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:34.598
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:35.624
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:35.634
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:35.645
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:36.669
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:36.682
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:36.694
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:37.722
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:37.735
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:37.747
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:38.772
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:38.786
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:38.800
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:39.816
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:39.826
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:39.837
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:40.859
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:40.872
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:40.883
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:41.905
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:41.916
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:41.928
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:42.956
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:42.967
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:42.981
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:44.001
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:44.014
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:44.031
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:45.045
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:45.056
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:45.068
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:46.099
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:46.109
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:46.122
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:47.138
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:47.155
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:47.166
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:48.195
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:48.206
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:48.218
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:49.235
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:49.247
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:49.258
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:50.280
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:50.291
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:50.302
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:51.326
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:51.339
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:51.353
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816505076.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816505076.RB。  2016-12-08 16:50:52.288
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:52.374
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:52.385
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:52.395
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816505076.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816505076.RB。  2016-12-08 16:50:52.397
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816505076.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:50:52.401
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:53.421
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:53.432
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:53.443
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:54.468
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:54.479
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:54.489
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:55.515
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:55.526
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:55.536
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:56.560
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:56.570
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:56.581
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:57.605
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:57.617
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:57.628
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:58.659
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:58.672
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:58.683
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:50:59.719
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:50:59.731
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:50:59.742
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:00.759
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:00.771
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:00.783
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:01.809
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:01.822
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:01.835
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816510277.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816510277.RB。  2016-12-08 16:51:02.743
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:02.849
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:02.860
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:02.871
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816510277.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816510277.RB。  2016-12-08 16:51:02.876
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816510277.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:51:03.054
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:03.889
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:03.900
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:03.911
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:04.937
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:04.950
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:04.963
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:05.987
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:05.997
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:06.008
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:07.029
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:07.040
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:07.050
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:08.075
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:08.086
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:08.097
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:09.121
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:09.133
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:09.146
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:10.170
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:10.181
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:10.193
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:11.217
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:11.227
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:11.241
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:12.270
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:12.283
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:12.329
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:13.342
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:13.354
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:13.369
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:14.389
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:14.399
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:14.411
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:15.434
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:15.445
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:15.459
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:16.487
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:16.497
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:16.508
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:17.532
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:17.544
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:17.562
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:18.577
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:18.588
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:18.599
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:19.623
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:19.635
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:19.648
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:20.671
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:20.681
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:20.693
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:21.723
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:21.738
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:21.748
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:22.767
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:22.780
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:22.793
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:23.831
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:23.847
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:23.864
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:24.876
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:24.886
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:24.898
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:25.922
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:25.936
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:25.948
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:26.971
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:26.982
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:26.993
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:28.015
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:28.035
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:28.050
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:29.074
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:29.085
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:29.096
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:30.129
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:30.147
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:30.159
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:31.188
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:31.212
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:31.222
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:32.236
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:32.254
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:32.266
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:33.293
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:33.304
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:33.316
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:34.341
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:34.351
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:34.364
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:35.391
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:35.403
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:35.416
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:36.442
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:36.459
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:36.471
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:37.484
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:37.496
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:37.507
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:38.531
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:38.544
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:38.555
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:39.576
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:39.588
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:39.599
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:40.625
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:40.636
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:40.649
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:41.670
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:41.681
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:41.693
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:42.719
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:42.734
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:42.747
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:43.775
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:43.785
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:43.797
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:44.818
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:44.831
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:44.841
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB”已经存在。  2016-12-08 16:51:45.855
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB”已经存在。  2016-12-08 16:51:45.867
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。时出错文件“E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB”已经存在。  2016-12-08 16:51:45.878
+CIME实时分析服务启动。  2016-12-08 16:52:19.383
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814575106.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814575106.RB。  2016-12-08 16:52:19.498
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814582107.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814582107.RB。  2016-12-08 16:52:19.499
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308.RB。  2016-12-08 16:52:19.548
+CIME实时分析服务启动。  2016-12-08 16:53:33.481
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814561702.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814561702.RB。  2016-12-08 16:54:16.698
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308测试.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308测试.RB。  2016-12-08 16:55:50.869
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308测试.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308测试.RB。  2016-12-08 16:56:34.920
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308测试.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308测试.RB。  2016-12-08 16:57:21.109
+CIME实时分析服务启动。  2016-12-08 16:58:38.874
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574678.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574678.RB。  2016-12-08 16:59:01.027
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574678.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:59:04.635
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816583881.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816583881.RB。  2016-12-08 16:59:04.650
+220kV白沙变 220kV白众线(江西.白沙站/220kV.212开关)跳闸，接收时间 2016-12-08 14:58:33  2016-12-08 16:59:06.035
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816583881.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:59:09.785
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574680.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574680.RB。  2016-12-08 16:59:13.370
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814583308测试.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814583308测试.RB。  2016-12-08 16:59:13.372
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574680.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:59:14.280
+下载文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574679.RB到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574679.RB。  2016-12-08 16:59:14.287
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574678.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816574678.RB。  2016-12-08 16:59:20.132
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574679.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816574679.RB。  2016-12-08 16:59:20.134
+删除文件ftp://10.36.10.233/var/send_message.old/ALARM_MESSAGE2016120816574679.RB,服务器返回:[FileActionOK];[250 DELE?????????
+]  2016-12-08 16:59:20.134
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816574680.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816574680.RB。  2016-12-08 16:59:20.136
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120816583881.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120816583881.RB。  2016-12-08 16:59:20.137

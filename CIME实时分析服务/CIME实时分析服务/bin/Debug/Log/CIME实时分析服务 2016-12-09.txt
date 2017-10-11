@@ -1,0 +1,3 @@
+CIME实时分析服务启动。  2016-12-09 17:14:45.383
+220kV东新变 220kV前东Ⅰ线(江西.东新站/220kV.216开关)跳闸，接收时间 2016-12-09 17:06:45  2016-12-09 17:15:29.171
+将文件E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2016120814554501演示.RB移动到E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\ALARM_MESSAGE2016120814554501演示.RB。  2016-12-09 17:15:34.192

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <!--数据库链接字符，由DEncrypt.exe生成-->
+  <!--FAULTVISTA-->
+<ConnectString>192FE2FA96039934953FA3E143207D81CBD17B1FD512A6A52E21AE88B9D420B06A7576106C933E8F32EB114FE4F39379BB26D83D9FD4915BC333ACF04028039D10080BCBEDC8AD2D</ConnectString>
+
+  
+
+  <!--**************短信通报模块设置**************-->
+  <!--开关跳闸后查找故障距离时间，单位：分钟-->
+  <GetDistance>6</GetDistance>
+  <!--EMS与录波时差，单位：秒-->
+  <Dfrdelay>300</Dfrdelay>
+  <!--生成契约文件间隔，单位：分钟-->
+  <feed_sms>10</feed_sms>
+  <!--需要发送故障时间为当前时间多长时间内的短信，单位分钟-->
+  <SendMax>35</SendMax>
+  <!--是否启用短信签名 1是， 0否-->
+  <EnableSignature>1</EnableSignature>
+  <!--短信签名内容，该内容直接附加在故障短信后-->
+  <Signature>【系统测试】</Signature>
+  <!--EMS最后一帧数据的时间与当前时间最大允许时差，单位：分钟，此时间要大于总召唤间隔时间-->
+  <DiffMax>6</DiffMax>
+  <!--**************短信通报模块设置**************-->
+
+  <!--**************WebFLfmEMS设置**************-->
+  <!--存放DFR文件的路径，ftp模式下需写为ftp地址，如ftp://192.168.1.110/-->
+  <Sourcefolder>ftp://localhost/var/fileserv/record_file/</Sourcefolder>
+  <!--upload所在的文件夹路径-->
+  <Desfolder>D:\upload</Desfolder>
+  <!--扫描跳闸信号前后delta-T (默认为5)分钟的comtrade文件-->
+  <DeltaT>5</DeltaT>
+  <!--检测录波文件时间，单位：分钟-->
+  <FMmax>5</FMmax>
+  <!--生成契约文件间隔-->
+  <feed_fm>10</feed_fm>
+  <DebugMode>1</DebugMode>
+  <!--工作模式，0为文件共享，1为ftp，2为三区ftp-->
+  <RunMode>2</RunMode>
+  <!--ftp用户名-->
+  <user>d5000</user>
+  <!--ftp密码-->
+  <pwd>2B0871AAD1A6B6263EF260DDF2061151</pwd>
+  <!--**************WebFLfmEMS设置**************-->
+
+  <!--**************辅助决策设置**************-->
+  <!--事故过程，即把开关跳闸后多长时间定为一个事故进行分析，默认为10，单位：秒-->
+  <eventtime>10</eventtime>
+  <!--生成契约文件间隔-->
+  <feed_fzjc>10</feed_fzjc>
+  <!--是否判断保护 1是， 0否-->
+  <protection>0</protection>
+  <!--上线参数值，默认10，单位%-->
+  <DistMax>10</DistMax>
+  <!--**************辅助决策设置**************-->
+  
+  
+  <!--**************录波器扫描服务**************-->
+  <!--录波器默认端口号-->
+  <DFRport>5010</DFRport>
+  <!--扫描录波器状态表间隔，单位秒-->
+  <DFRspan>30</DFRspan>
+  <!--录波器中断告警时长，单位分钟-->
+  <DFRwarning>30</DFRwarning>
+  <!--是否重复报警-->
+  <ReWarning>0</ReWarning>
+  <!--重复报警次数-->
+  <ReWarningTimes>1</ReWarningTimes>
+  <!--**************录波器扫描服务**************-->
+
+  <!--**************数据推送服务**************-->
+  <!--推送数据扫描间隔，单位秒-->
+  <SendSpan>30</SendSpan>
+  <!--故障简报存放目录-->
+  <FaultDes>D:\datasend</FaultDes>
+  <!--故障短信存放ftp目录-->
+  <SMSDes>ftp://localhost</SMSDes>
+  <!--故障短信存放ftp用户名-->
+  <SMSuser>relay</SMSuser>
+  <!--故障短信存放ftp密码-->
+  <SMSpwd>2B561CD3AC1C4102</SMSpwd>
+  <!--**************数据推送服务**************-->
+
+  <!--**************CIME实时分析服务**************-->
+  <!--是否开启FTP抓取E文件-->
+  <EFTP>0</EFTP>
+  <!--运行模式0南瑞1积成-->
+  <EMode>0</EMode>
+  <!--实时文件扩展名 如 RB-->
+  <Ext>RB</Ext>
+  <!--编码格式 如 0:Default，1:UTF8 -->
+  <Ecoding>1</Ecoding>
+  <!--D5000 E文件FTP目录-->
+  <Epath>ftp://localhost/var/fileserv/record_file/</Epath>
+  <!--E文件FTP扫描间隔，单位秒-->
+  <Espan>10</Espan>
+  <!--E文件处理扫描间隔，单位秒-->
+  <ESavespan>1</ESavespan>
+  <!--**************CIME实时分析服务**************-->
+</AppSettings>

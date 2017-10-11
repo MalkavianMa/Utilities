@@ -1,0 +1,599 @@
+CIME实时分析服务启动。  2017-05-26 10:34:36.297
+未开启FTP抓取E文件功能。  2017-05-26 10:34:36.361
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 10:35:06.664
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 10:35:06.693
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 10:35:10.593
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 10:35:10.600
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 10:36:12.409
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 10:37:03.152
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 10:47:09.663
+CIME实时分析服务启动。  2017-05-26 10:51:46.715
+未开启FTP抓取E文件功能。  2017-05-26 10:51:46.769
+CIME实时分析服务启动。  2017-05-26 10:52:25.486
+未开启FTP抓取E文件功能。  2017-05-26 10:52:25.543
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 10:55:18.237
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 10:55:18.241
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 10:55:38.370
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 10:55:38.375
+CIME实时分析服务启动。  2017-05-26 11:06:16.678
+未开启FTP抓取E文件功能。  2017-05-26 11:06:16.735
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:11:34.560
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:12:05.135
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:12:15.945
+CIME实时分析服务启动。  2017-05-26 11:13:15.047
+未开启FTP抓取E文件功能。  2017-05-26 11:13:15.115
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 11:13:45.121
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:13:45.127
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 11:14:19.866
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:14:19.871
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 11:14:37.195
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:14:37.200
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)合闸(停电，接收时间 2017-04-29 14:21:26  2017-05-26 11:14:37.219
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 11:14:37.224
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 11:14:37.229
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 11:14:37.234
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 11:14:37.239
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 11:14:37.244
+CIME实时分析服务启动。  2017-05-26 11:18:02.703
+未开启FTP抓取E文件功能。  2017-05-26 11:18:02.763
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:18:03.411
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:18:03.416
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:18:03.430
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:18:03.433
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:18:03.437
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:18:03.442
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:18:03.446
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:18:03.450
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:18:03.455
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:18:03.460
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 11:18:03.470
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 11:18:03.474
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 11:18:03.631
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:27  2017-05-26 11:18:03.657
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 11:18:03.662
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:28  2017-05-26 11:18:03.683
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 11:18:03.689
+CIME实时分析服务启动。  2017-05-26 11:19:33.536
+未开启FTP抓取E文件功能。  2017-05-26 11:19:33.593
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:19:34.599
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:19:34.606
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:19:34.633
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:19:34.638
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:19:34.645
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:19:34.652
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:19:34.658
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:19:34.665
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:19:34.671
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:19:34.677
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 11:19:34.707
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 11:19:34.712
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 11:19:34.834
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:27  2017-05-26 11:19:34.857
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 11:19:34.863
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:28  2017-05-26 11:19:34.888
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 11:19:34.894
+CIME实时分析服务启动。  2017-05-26 11:21:50.421
+未开启FTP抓取E文件功能。  2017-05-26 11:21:50.465
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:21:54.994
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:21:55.000
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:21:59.782
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:21:59.787
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:21:59.794
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:21:59.800
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:21:59.808
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:21:59.813
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:21:59.818
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:21:59.824
+CIME实时分析服务启动。  2017-05-26 11:22:47.249
+未开启FTP抓取E文件功能。  2017-05-26 11:22:47.310
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:22:50.878
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:22:50.884
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:22:52.531
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:22:52.541
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:22:52.549
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:22:52.555
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:22:52.561
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:22:52.567
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:22:52.573
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:22:52.579
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 11:22:55.637
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 11:22:55.645
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 11:22:55.651
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:27  2017-05-26 11:22:57.750
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 11:22:57.755
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:28  2017-05-26 11:22:59.607
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 11:22:59.616
+CIME实时分析服务启动。  2017-05-26 11:26:18.788
+未开启FTP抓取E文件功能。  2017-05-26 11:26:18.852
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:26:23.037
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:26:23.043
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:26:25.482
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:26:25.487
+CIME实时分析服务启动。  2017-05-26 11:28:00.557
+未开启FTP抓取E文件功能。  2017-05-26 11:28:00.614
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:28:00.801
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 11:28:00.805
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 11:28:00.810
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 11:28:00.813
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 11:28:00.817
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 11:28:00.821
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 11:28:00.825
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:28:00.828
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 11:28:00.832
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 11:28:00.838
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 11:28:00.843
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 11:28:00.847
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 11:28:00.851
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:27  2017-05-26 11:28:00.856
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 11:28:00.859
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:28  2017-05-26 11:28:00.864
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 11:28:00.866
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 11:33:06.090
+CIME实时分析服务启动。  2017-05-26 14:07:39.122
+未开启FTP抓取E文件功能。  2017-05-26 14:07:39.148
+CIME实时分析服务启动。  2017-05-26 14:09:40.657
+未开启FTP抓取E文件功能。  2017-05-26 14:09:40.709
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 14:09:47.847
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 14:09:47.854
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 14:09:47.859
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 14:09:47.865
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 14:09:47.872
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:48.321
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:48.419
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:48.525
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 14:09:48.540
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 14:09:48.545
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 14:09:48.551
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 14:09:48.557
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 14:09:48.562
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:49.636
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:49.691
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:49.740
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:50.843
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:50.939
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:51.040
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:52.157
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:52.257
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:52.355
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:53.450
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:53.549
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:53.640
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:54.725
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:54.822
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:54.916
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:55.966
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:56.008
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:56.056
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:57.158
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:57.253
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:57.343
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:58.455
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:58.565
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:58.665
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:59.770
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:59.866
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:09:59.973
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:01.064
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:01.164
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:01.262
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:02.363
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:02.455
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:02.548
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:03.641
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:03.733
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:03.828
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:04.934
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:05.020
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:05.115
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:06.212
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:06.320
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:06.411
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:07.509
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:07.599
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:07.691
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:08.789
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:08.886
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:08.977
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:10.085
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:10.172
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:10.262
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:11.366
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:11.463
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:11.553
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:12.659
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:12.743
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:12.799
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:13.902
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:14.030
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:14.120
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:15.213
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:15.307
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:15.395
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:16.483
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:16.574
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:16.672
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:17.774
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:17.880
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:17.965
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:19.070
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:19.152
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:19.247
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:20.357
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:20.449
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:20.541
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:21.641
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:21.749
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:21.850
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:22.959
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:23.054
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:23.144
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:24.250
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:24.349
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:24.435
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:25.545
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:25.634
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:25.737
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:26.828
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:26.915
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:27.012
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:28.125
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:28.222
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:28.312
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:29.413
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:40.243
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:40.920
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:44.055
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:44.802
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:51.745
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:53.606
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:58.757
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:10:59.348
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:01.369
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:02.238
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:02.981
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:05.363
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:06.046
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:11:06.943
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:12:18.829
+CIME实时分析服务[读取开关信息]出错！'1' 附近有语法错误。
+字符串 '' 后的引号不完整。  2017-05-26 14:13:00.309
+CIME实时分析服务启动。  2017-05-26 14:15:26.755
+未开启FTP抓取E文件功能。  2017-05-26 14:15:26.809
+CIME实时分析服务启动。  2017-05-26 14:17:44.607
+未开启FTP抓取E文件功能。  2017-05-26 14:17:44.674
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 14:17:56.003
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 14:17:56.010
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 14:17:59.150
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 14:17:59.156
+CIME实时分析服务启动。  2017-05-26 15:14:43.247
+未开启FTP抓取E文件功能。  2017-05-26 15:14:43.305
+CIME实时分析服务启动。  2017-05-26 15:17:16.988
+未开启FTP抓取E文件功能。  2017-05-26 15:17:17.038
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:17:44.180
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:17:44.184
+CIME实时分析服务启动。  2017-05-26 15:20:18.973
+未开启FTP抓取E文件功能。  2017-05-26 15:20:19.029
+CIME实时分析服务启动。  2017-05-26 15:22:19.137
+未开启FTP抓取E文件功能。  2017-05-26 15:22:19.174
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:23:16.814
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:23:16.818
+CIME实时分析服务启动。  2017-05-26 15:37:28.252
+未开启FTP抓取E文件功能。  2017-05-26 15:37:28.312
+CIME实时分析服务启动。  2017-05-26 15:40:49.256
+未开启FTP抓取E文件功能。  2017-05-26 15:40:49.304
+CIME实时分析服务启动。  2017-05-26 15:44:13.818
+未开启FTP抓取E文件功能。  2017-05-26 15:44:13.858
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:44:21.866
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:44:21.872
+CIME实时分析服务启动。  2017-05-26 15:45:10.759
+未开启FTP抓取E文件功能。  2017-05-26 15:45:10.827
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:45:19.534
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:45:19.539
+CIME实时分析服务启动。  2017-05-26 15:46:16.517
+未开启FTP抓取E文件功能。  2017-05-26 15:46:16.539
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:47:01.461
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:47:01.467
+CIME实时分析服务启动。  2017-05-26 15:48:37.444
+未开启FTP抓取E文件功能。  2017-05-26 15:48:37.498
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:49:13.991
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:49:13.996
+CIME实时分析服务启动。  2017-05-26 15:50:29.236
+未开启FTP抓取E文件功能。  2017-05-26 15:50:29.291
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:50:44.511
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:50:44.517
+CIME实时分析服务启动。  2017-05-26 15:54:41.394
+未开启FTP抓取E文件功能。  2017-05-26 15:54:41.460
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 15:55:22.054
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 15:55:22.058
+CIME实时分析服务启动。  2017-05-26 15:56:02.977
+未开启FTP抓取E文件功能。  2017-05-26 15:56:03.038
+CIME实时分析服务启动。  2017-05-26 15:57:17.479
+未开启FTP抓取E文件功能。  2017-05-26 15:57:17.534
+CIME实时分析服务启动。  2017-05-26 16:13:23.835
+未开启FTP抓取E文件功能。  2017-05-26 16:13:23.885
+CIME实时分析服务启动。  2017-05-26 16:15:18.257
+未开启FTP抓取E文件功能。  2017-05-26 16:15:18.310
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:15:31.066
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:15:31.070
+CIME实时分析服务启动。  2017-05-26 16:17:14.921
+未开启FTP抓取E文件功能。  2017-05-26 16:17:14.987
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:18:04.687
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:18:04.695
+CIME实时分析服务启动。  2017-05-26 16:20:53.340
+未开启FTP抓取E文件功能。  2017-05-26 16:20:53.403
+CIME实时分析服务启动。  2017-05-26 16:23:00.255
+未开启FTP抓取E文件功能。  2017-05-26 16:23:00.324
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:23:24.658
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:23:24.661
+CIME实时分析服务启动。  2017-05-26 16:24:33.279
+未开启FTP抓取E文件功能。  2017-05-26 16:24:33.330
+CIME实时分析服务启动。  2017-05-26 16:25:52.122
+未开启FTP抓取E文件功能。  2017-05-26 16:25:52.190
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:26:15.535
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:26:15.539
+CIME实时分析服务启动。  2017-05-26 16:38:00.931
+未开启FTP抓取E文件功能。  2017-05-26 16:38:00.992
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:38:12.971
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:38:12.977
+CIME实时分析服务启动。  2017-05-26 16:42:39.159
+未开启FTP抓取E文件功能。  2017-05-26 16:42:39.194
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 16:43:11.966
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 16:43:11.969
+CIME实时分析服务启动。  2017-05-26 16:50:22.382
+未开启FTP抓取E文件功能。  2017-05-26 16:50:22.441
+CIME实时分析服务[E文件处理]出错！未将对象引用设置到对象的实例。  2017-05-26 16:50:30.889
+CIME实时分析服务启动。  2017-05-26 17:08:00.591
+未开启FTP抓取E文件功能。  2017-05-26 17:08:00.629
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:09:01.449
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:09:01.452
+CIME实时分析服务启动。  2017-05-26 17:11:30.642
+未开启FTP抓取E文件功能。  2017-05-26 17:11:30.697
+CIME实时分析服务启动。  2017-05-26 17:14:37.983
+未开启FTP抓取E文件功能。  2017-05-26 17:14:38.016
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:14:43.761
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:14:43.769
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:14:43.793
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:14:43.798
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:14:43.805
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:14:43.811
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:14:43.817
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:14:43.846
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:14:43.851
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:14:43.882
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:14:43.887
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:14:43.916
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:14:43.933
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:14:43.940
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 17:14:43.983
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:27  2017-05-26 17:14:44.010
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 17:14:44.015
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:28  2017-05-26 17:14:44.038
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 17:14:44.044
+CIME实时分析服务启动。  2017-05-26 17:22:03.655
+未开启FTP抓取E文件功能。  2017-05-26 17:22:03.721
+CIME实时分析服务启动。  2017-05-26 17:28:53.273
+未开启FTP抓取E文件功能。  2017-05-26 17:28:53.328
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:28:58.929
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:28:58.936
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:29:00.274
+CIME实时分析服务启动。  2017-05-26 17:29:18.516
+未开启FTP抓取E文件功能。  2017-05-26 17:29:18.587
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:29:45.744
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:29:45.748
+CIME实时分析服务启动。  2017-05-26 17:33:03.757
+未开启FTP抓取E文件功能。  2017-05-26 17:33:03.836
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:33:05.388
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:33:05.394
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:33:05.616
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:33:05.621
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:33:05.627
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:33:05.632
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:33:05.638
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:33:05.665
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:33:05.692
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:33:05.713
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:33:05.730
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:33:05.736
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 17:33:05.742
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 17:33:05.748
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 17:33:05.758
+CIME实时分析服务启动。  2017-05-26 17:35:20.033
+未开启FTP抓取E文件功能。  2017-05-26 17:35:20.088
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:35:21.703
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:35:21.708
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:35:21.727
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:35:21.731
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:35:21.737
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:35:21.743
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:35:21.748
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:35:21.965
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:35:21.969
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:35:21.998
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:35:22.002
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:35:22.024
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:35:22.038
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:35:22.043
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 17:35:22.049
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 17:35:22.055
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 17:35:22.066
+CIME实时分析服务启动。  2017-05-26 17:37:22.353
+未开启FTP抓取E文件功能。  2017-05-26 17:37:22.401
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:37:53.615
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:37:53.624
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:38:00.180
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:38:00.185
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:38:10.084
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:38:14.862
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:38:22.940
+CIME实时分析服务启动。  2017-05-26 17:39:26.742
+未开启FTP抓取E文件功能。  2017-05-26 17:39:26.798
+CIME实时分析服务启动。  2017-05-26 17:42:11.326
+未开启FTP抓取E文件功能。  2017-05-26 17:42:11.382
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:42:18.401
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:42:18.407
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:42:21.805
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:42:21.810
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:42:28.523
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:42:31.994
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:42:35.148
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:43:22.343
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:43:22.348
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:43:44.501
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:43:44.506
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:44:21.845
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:44:50.202
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:44:58.561
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 17:45:03.229
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 17:45:06.946
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 17:45:11.477
+CIME实时分析服务启动。  2017-05-26 17:46:52.605
+未开启FTP抓取E文件功能。  2017-05-26 17:46:52.654
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:47:01.823
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:47:01.828
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:47:03.034
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:47:03.039
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:47:05.156
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:47:07.072
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:47:08.588
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:47:14.319
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:47:14.324
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:47:18.145
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:47:18.149
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:47:21.129
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:47:23.445
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:47:31.949
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 17:47:35.946
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 17:47:44.574
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212896.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212896.RB。  2017-05-26 17:48:04.847
+CIME实时分析服务启动。  2017-05-26 17:49:34.147
+未开启FTP抓取E文件功能。  2017-05-26 17:49:34.200
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:52:30.994
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212590.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212590.RB。  2017-05-26 17:52:30.999
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)分闸，接收时间 2017-04-29 14:21:25  2017-05-26 17:53:59.098
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212591.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212591.RB。  2017-05-26 17:53:59.104
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212597.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212597.RB。  2017-05-26 17:54:00.749
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212598.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212598.RB。  2017-05-26 17:54:01.991
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212599.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212599.RB。  2017-05-26 17:54:03.321
+220kV雩田变 220kV澄雩线(江西.雩田站/220kV.215开关)A相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:54:06.662
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212600.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212600.RB。  2017-05-26 17:54:06.668
+220kV澄江变 220kV澄雩线(江西.澄江站/220kV.213开关)B相合闸，接收时间 2017-04-29 14:21:26  2017-05-26 17:54:09.771
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212601.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212601.RB。  2017-05-26 17:54:09.776
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212602.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212602.RB。  2017-05-26 17:54:18.575
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212692.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212692.RB。  2017-05-26 17:54:20.289
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212793.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212793.RB。  2017-05-26 17:54:52.843
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212794.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212794.RB。  2017-05-26 18:02:21.741
+将文件E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\TempFiles\ALARM_MESSAGE2017042914212795.RB移动到E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\OldDataFiles\20170526\ALARM_MESSAGE2017042914212795.RB。  2017-05-26 18:03:17.523
+CIME实时分析服务启动。  2017-05-26 18:03:53.941
+未开启FTP抓取E文件功能。  2017-05-26 18:03:53.963

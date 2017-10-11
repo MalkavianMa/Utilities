@@ -1,0 +1,54 @@
+E:\6.江西项目\elanguage\bin\Debug\elanguage.pdb
+E:\6.江西项目\elanguage\obj\Debug\elanguage.pdb
+E:\6.江西项目\elanguage\bin\Debug\elanguage.exe
+E:\6.江西项目\elanguage\obj\Debug\elanguage.exe
+C:\Users\Administrator\Desktop\elanguage\obj\Debug\elanguage.exe
+C:\Users\Administrator\Desktop\elanguage\obj\Debug\elanguage.pdb
+E:\Winform\数据推送服务\数据推送服务\elanguage\bin\Debug\elanguage.exe
+E:\Winform\数据推送服务\数据推送服务\elanguage\bin\Debug\elanguage.pdb
+E:\Winform\数据推送服务\数据推送服务\elanguage\obj\Debug\elanguage.exe
+E:\Winform\数据推送服务\数据推送服务\elanguage\obj\Debug\elanguage.pdb
+E:\Winform\CIME建模工具\CIME建模工具\elanguage\bin\Debug\elanguage.exe
+E:\Winform\CIME建模工具\CIME建模工具\elanguage\bin\Debug\elanguage.pdb
+E:\Winform\CIME建模工具\CIME建模工具\elanguage\obj\Debug\elanguage.exe
+E:\Winform\CIME建模工具\CIME建模工具\elanguage\obj\Debug\elanguage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CIME建模工具\elanguage\bin\Debug\elanguage.exe
+C:\Users\Administrator\Desktop\新建文件夹\CIME建模工具\elanguage\bin\Debug\elanguage.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CIME建模工具\elanguage\obj\Debug\elanguage.exe
+C:\Users\Administrator\Desktop\新建文件夹\CIME建模工具\elanguage\obj\Debug\elanguage.pdb
+E:\src\CIME建模工具\CIME建模工具\elanguage\bin\Debug\elanguage.exe
+E:\src\CIME建模工具\CIME建模工具\elanguage\bin\Debug\elanguage.pdb
+E:\src\CIME建模工具\CIME建模工具\elanguage\obj\Debug\elanguage.exe
+E:\src\CIME建模工具\CIME建模工具\elanguage\obj\Debug\elanguage.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\src\CIME实时分析服务\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\elanguage\bin\Debug\elanguage.exe
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\elanguage\bin\Debug\elanguage.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\elanguage\obj\Debug\elanguage.exe
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\elanguage\obj\Debug\elanguage.pdb

@@ -1,0 +1,152 @@
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\src\CIME实时分析服务2017年1月19日 145620\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月16日 101859\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\Winform\CIME实时分析服务\CIME实时分析服务2017年2月20日 095429\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+E:\src\CIME实时分析服务2017年3月3日 111412\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+C:\Users\dell\Desktop\新建文件夹 (2)\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务 2017年5月31日 232611\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe.config
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.exe
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\SDFLcfg.xml
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.exe
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\CIME实时分析服务.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.dll
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.dll
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.exe
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.dll
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\Common.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\DButility.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\elanguage.pdb
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\bin\Debug\AutoMapper.xml
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.CIME104.resources
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\RealtimeAnalysis.CloseForm.resources
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.Properties.Resources.resources
+C:\Users\dell\Desktop\CIME实时分析服务 2017年6月1日160947\CIME实时分析服务\CIME实时分析服务\obj\x86\Debug\CIME实时分析服务.csproj.GenerateResource.Cache
